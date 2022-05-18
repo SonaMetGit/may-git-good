@@ -24,5 +24,10 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void deleteTwitter1()
+	{// method added to test branching concept in Git
+		System.out.println("deleteTwitter 1");
+	}
 
 }
