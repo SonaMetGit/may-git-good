@@ -8,6 +8,8 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+// Line added by supposedly first user after pulling the changes from GitHub
+		System.out.println("WebAutomation");
 	}
 	
 	@Test
