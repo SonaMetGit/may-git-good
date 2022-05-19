@@ -23,4 +23,11 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi1");
 	}
+
+// one more method added to check it reflects in newly created 'develop' branch in GitHub
+	@Test
+	public void elementsUi10()
+	{
+		System.out.println("elementsUi10);
+	}
 }
